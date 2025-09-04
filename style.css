@@ -1,0 +1,185 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+   list-style: none;
+}
+.bg{
+   background-image: url(./1\ \(7\).png);
+   height: 875px;
+   background-repeat: no-repeat;
+   
+}
+.container{
+   max-width: 1440px;
+   width: 100%;
+   margin: 0 auto;
+}
+header{
+   display: flex;
+   justify-content: space-between;
+   
+}
+.logo{
+   width: 87px;
+   height: 49px;
+   margin-top: 28px;
+}
+ul {
+   display: flex;
+   gap: 32px;
+   margin-top: 28px;
+}
+li :hover{
+color: #F57520;
+}
+.images{
+   display: flex;
+   width: 24px;
+   height: 24px;
+   margin-top: 28px;
+   margin-right: 135px;
+   gap: 24px;
+}
+.lgimg{
+   margin-left: 20px;
+}
+.headertext{
+   color: white;
+   margin-top: 80px;
+}
+h1{
+   font-size: 67px;
+}
+.text{
+   margin-top: 48px;
+}
+.textbtn{
+   background-color: orange;
+   color: white;
+   width: 180px;
+   height: 52px;
+   border-radius: 10px;
+   margin-top: 40px;
+}
+.cards  {
+   background: gray;
+   
+ 
+  
+
+   
+}
+
+h2{
+   color: black;
+   text-align: center;
+}
+.card {
+
+width: 400px;
+height: 462px;
+background-color: black;
+border-radius: 10px;
+ margin-top: 140px;
+ margin-bottom: 190px;
+}
+
+
+.cardimg{
+   width: 400px;
+   
+}
+.cardtext{
+   margin-top: 100px;
+   color: white;
+}
+.cards1{
+   display: flex;
+  
+   justify-content: space-between;
+}
+.cards2{
+   display: flex;
+  margin-top: 40px;
+   justify-content: space-between;
+}
+.bginfo{
+ background-color: #F57520;
+   width: 1920px;
+   height: 636px;
+   
+}
+
+section{
+  
+position: relative;
+}
+h3{
+   position: absolute;
+   left: 320px;
+   top: 52px;
+
+}
+
+
+.secinfo{
+   position: absolute;
+   top: 144px;
+   left: 314px;
+}
+input{
+   width: 302px;
+   height: 64px;
+   border-radius: 10px;
+    margin-bottom: 16px;
+   margin-right: 16px;
+}
+textarea{
+   width: 608px;
+   height: 154px;
+   margin-bottom: 16px;
+   margin-right: 16px;
+
+}
+.btncom{
+   width: 608px;
+   height: 56px;
+   position: absolute;
+   top: 350px;
+   right: 0px;
+   color: #F57520;
+   left: 0px;
+}
+.rightimg{
+   margin-left: 440px;
+}
+footer{
+   background-color: black;
+   width: 1920px;
+   height: 370px;
+   position: relative;
+}
+
+.katalog{
+   color: white;
+   margin-top: 70px;
+  
+  
+}
+.minifooter{
+   display: flex;
+   margin-left: 352px;
+
+
+}
+.pltext{
+   margin-top: 32px;
+}
+.footerlogo{
+  position: absolute;
+  top: 50px;
+}
+
+
